@@ -16,10 +16,20 @@ const Home = () => {
             Mi nombre es Esteban Andres Pastor, actualmente soy estudiante de la
             tecnicatura universitaria en programación (UTN). Me encuentro en el
             segundo año.
-           
-          </p> 
-          <p className="text-white py-5 max-w-md">¿Como contactarme? 
-             Envíame un mail: estebanandrespastor@gmail.com</p>
+          </p>
+          <p className="text-white py-5 max-w-md">
+            My name is Esteban Andres Pastor, I am currently a student of the
+            university technical program in programming (UTN). I am currently in
+            the second year.
+          </p>
+
+          <p className="text-white py-5 max-w-md">
+            ¿Como contactarme? Envíame un mail: estebanandrespastor@gmail.com
+          </p>
+          <p className="text-white py-5 max-w-md">
+            {" "}
+            How to contact me? Send me an email: estebanandrespastor@gmail.com
+          </p>
 
           <div></div>
         </div>

@@ -25,6 +25,18 @@ const About = () => {
           proyecto que me permita aportar desde mis conocimientos y no dejar de
           aprender y crecer tanto laboral como personalmente.
         </p>
+
+        <p className="text-xl mt-20">
+          Additionally I am learning: JAVA, PHP, PostgreSQL and Angular.
+        </p>
+
+        <br />
+
+        <p className="text-xl">
+          I want to develop myself in the workplace by getting involved in a
+          project that allows me to contribute from my knowledge and not stop
+          learning and growing both professionally and personally.
+        </p>
       </div>
     </div>
   );
